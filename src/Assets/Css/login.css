@@ -1,0 +1,26 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    padding:30px;
+    border: 1px solid #ccc;
+    width: 500px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.input-box {
+    margin-top: 15px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.login-btn-container {
+    margin-top: 10px;
+}
+.error-text {
+    color: red;
+    font-size: 13px;
+}
+.input-box {
+    margin-bottom: 6px;
+    width: 400px;
+}
