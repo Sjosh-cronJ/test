@@ -6,7 +6,6 @@ import store from './Store/store'
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import RouterClass from './Router/router'
-import Login from './Container/Login/login'
 ReactDOM.render(
     <Provider store={store}>
         <BrowserRouter>

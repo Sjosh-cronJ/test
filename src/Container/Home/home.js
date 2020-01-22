@@ -3,7 +3,6 @@ import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
-import Constants from '../../Constants/constants'
 import * as userActions from '../../Action/userActions'
 import './home.css'
 class Home extends Component {
